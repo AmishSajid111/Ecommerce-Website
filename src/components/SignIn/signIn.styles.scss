@@ -19,3 +19,17 @@
        
       }
 }
+@media only screen and (max-width:910px){
+    .sign-in{
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+      
+    }
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+       
+      }
+
+}
